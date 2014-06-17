@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/battle_scripts/BattleState.cs">
+    <Files>
+      <File FileName="Assets/battle_scripts/BattleState.cs" Line="36" Column="36" />
+      <File FileName="Assets/3rdparty/PlayMaker/Actions/GUIButton.cs" Line="10" Column="1" />
+      <File FileName="Assets/3rdparty/PlayMaker/Actions/GUILayoutEndVertical.cs" Line="8" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
